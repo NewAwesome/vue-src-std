@@ -1,3 +1,5 @@
+此项目clone自vuejs源码，目的是学习，断点调试以及批注
+
 <p align="center"><a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="100" src="https://vuejs.org/images/logo.png" alt="Vue logo"></a></p>
 
 <p align="center">
