@@ -13,3 +13,5 @@
 //     }
 //   ]
 // }
+
+// NOTE: clone项目 -->  vscode配置调试文件launch.json -->  npm run dev -->  打断点进行调试
